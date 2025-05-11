@@ -94,4 +94,3 @@ Project Structure
 ├── emotions.csv                 # Example input file
 ├── eeg_network_animation.gif    # Generated animation
 └── README.md                    # Project documentation
-
