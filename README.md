@@ -91,7 +91,7 @@ Project Structure
 
 📁 eeg-mood-classifier/
 ├── EEG.py                       # Main application
-├── emotions.csv                 # Example input file (optional)
-├── eeg_network_animation.gif    # Generated animation (optional)
-└── README.md                    # Project overview
+├── emotions.csv                 # Example input file
+├── eeg_network_animation.gif    # Generated animation
+└── README.md                    # Project documentation
 
