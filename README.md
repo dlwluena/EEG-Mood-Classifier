@@ -1,5 +1,7 @@
 # EEG-Mood-Classifier Project
 
+![eeg_network_animation](https://github.com/user-attachments/assets/9b4297e1-5522-4a38-928a-1acd6daf027c)
+
 # 🎯 Project Aim
 
 The primary goal of this project is to provide an interactive desktop application that enables users to analyze EEG (Electroencephalogram) data and predict emotional states—such as happiness, sadness, or neutrality—based on simple signal statistics. In addition to mood classification, the project also aims to enhance user understanding through visual feedback by plotting brainwave signals and dynamically simulating brain network activity in 3D.
@@ -96,5 +98,3 @@ eeg-mood-classifier/
 ├── emotions.csv              → Sample EEG input file
 ├── eeg_network_animation.gif → Generated animated brain network output
 └── README.md                 → Project documentation
-```
-
