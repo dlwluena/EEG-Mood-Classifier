@@ -95,6 +95,5 @@ The animation will be saved as eeg_network_animation.gif
 eeg-mood-classifier/
 │
 ├── EEG.py                    → Main PyQt5 application file
-├── emotions.csv              → Sample EEG input file
 ├── eeg_network_animation.gif → Generated animated brain network output
 └── README.md                 → Project documentation
